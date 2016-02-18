@@ -6,7 +6,6 @@ public class LongName {
     private static final String mFile="name.txt";
 
     public static void main(String[] names) {
-
         if(names.length==0) {
             System.out.println("Enter names!");
             return;
